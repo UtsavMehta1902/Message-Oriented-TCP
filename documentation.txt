@@ -1,9 +1,6 @@
 Computer Networks Laboratory (CS39006) -- Assignment 5
 MESSAGE ORIENTED TCP
 
-Siddharth Viswkarma - 20CS10082
-Pranav Kulkarni - 20CS30029
-
 Data Structures Used (in `mysocket.h`):
     1. MyTable -
         type - struct{
